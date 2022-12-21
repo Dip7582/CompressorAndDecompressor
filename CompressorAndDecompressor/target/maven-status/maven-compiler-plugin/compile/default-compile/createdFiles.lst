@@ -1,0 +1,5 @@
+compressor/compressor.class
+compressor/Decompressor.class
+GUI/main.class
+com/mycompany/compressoranddecompressor/CompressorAndDecompressor.class
+GUI/AppFrame.class
